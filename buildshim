@@ -23,6 +23,7 @@ upload)
       eval "$(ssh-agent)"
       ssh-add ~/.ssh/id_rsa
 
+      rsync -avz _build/html tchpc@$DOCS_HOST:docs/
     ;;
 compile_extra)
     ;;
