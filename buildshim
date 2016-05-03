@@ -1,0 +1,30 @@
+#!/bin/bash
+
+branch=$(git symbolic-ref HEAD | sed -e 's,.*/\(.*\),\1,')
+
+case $1 in
+patch)
+    ;;
+install_deps)
+    ;;
+configure)
+    ;;
+compile)
+    make html
+    ;;
+check)
+    ;;
+package)
+    ;;
+upload)
+      #setup ssh agent for key forwarding to work
+      #eval ssh-agent $SHELL
+      eval "$(ssh-agent)"
+      ssh-add ~/.ssh/id_rsa
+
+    ;;
+compile_extra)
+    ;;
+uninstall_deps)
+    ;;
+esac
