@@ -6,6 +6,7 @@ case $1 in
 patch)
     ;;
 install_deps)
+    pip install sphinx_rtd_theme
     ;;
 configure)
     ;;
