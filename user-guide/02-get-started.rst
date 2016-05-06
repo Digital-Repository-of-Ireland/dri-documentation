@@ -51,3 +51,32 @@ at the top of the results display. There are also options for a map and timeline
 
    Search results with list display selected.
 
+Creating an account
+-------------------
+
+Searching and viewing public collections and objects can be done without having an account on the Repository.
+Some functions, however, are only available to registered users. To create an account you should click the
+'Sign Up' link in the top right navigation menu. This will bring you to the registration form. You must enter
+your name, email address and set a password. It is important the email address entered is valid and 
+accessible by you.
+
+.. figure:: images/registration.png
+   :alt: Registration form
+
+   Registration form.
+
+Once the required information has been entered the form is submitted by clicking the 'Register' button.
+You should see a confirmation message stating that an email has been sent to the address entered on the form.
+This email will contain a link that you must visit to confirm your new account. Once you have done this
+your account will be confirmed and activated and you can now sign in.
+
+To sign in click the 'Login' link, which will bring you to the sign in form. Enter the email address and password
+for the account just created and click 'Login'. You will be redirected to the Repository home page and should see
+some additional menu options. You can view and edit your user profile by clicking on the user symbol in the top right
+navigation bar.
+
+.. figure:: images/signed-in.png
+   :alt: Signed in screenshot
+
+   Successful sign in.
+
