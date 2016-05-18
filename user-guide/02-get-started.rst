@@ -55,10 +55,14 @@ Creating an account
 -------------------
 
 Searching and viewing public collections and objects can be done without having an account on the Repository.
-Some functions, however, are only available to registered users. To create an account you should click the
-'Sign Up' link in the top right navigation menu. This will bring you to the registration form. You must enter
-your name, email address and set a password. It is important the email address entered is valid and 
-accessible by you.
+Some functions, however, are only available to registered users |learnusers|.
+
+.. |learnusers| image:: images/learn-more.png
+   :target: http://dri.ie/sites/default/files/files/HowtoDRI_UserRoles%20v2.pdf
+
+To create an account you should click the 'Sign Up' link in the top right navigation menu.
+This will bring you to the registration form. You must enter your name, email address and set a password.
+It is important the email address entered is valid and accessible by you.
 
 .. figure:: images/registration.png
    :alt: Registration form
@@ -79,4 +83,3 @@ navigation bar.
    :alt: Signed in screenshot
 
    Successful sign in.
-
