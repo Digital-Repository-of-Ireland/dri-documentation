@@ -55,7 +55,7 @@ author = u'Digital Repository of Ireland'
 # built documents.
 #
 # The short X.Y version.
-version = u'16.04'
+version = u'16.06'
 # The full version, including alpha/beta/rc tags.
 release = u'16.04'
 
