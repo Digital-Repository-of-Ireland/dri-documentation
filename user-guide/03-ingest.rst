@@ -89,3 +89,24 @@ option. Pressing this will upload the asset and attach it to the object.
    :alt: Upload asset button
 
    Upload asset button
+
+Once uploaded a message indicating if the upload was successful will be displayed. The Repository will now process
+the uploaded asset for display. For example, in the case of an image, a thumbnail and several other 
+surrogates of various sizes will be created. Until these background processes are completed a temporary message
+will be shown in the asset display. To check on the progress of these jobs you can select Asset Details (1) in the 
+Asset Tools menu (2). You can also delete the asset from this menu (3).
+
+.. figure:: images/asset-tools.png
+   :alt: Asset tools menu
+
+   Asset tools menu
+
+In the asset details page you can view the metadata automatically extracted from the uploaded asset (1). You can also
+see the progress and status of the background processes (2). This will show if the task has succeeded or in the case
+of a failure will show the error. You can also choose to replace the asset with a different file (3).
+
+.. figure:: images/asset-details.png
+   :alt: Asset details
+
+   Asset details
+
