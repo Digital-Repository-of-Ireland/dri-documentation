@@ -16,6 +16,17 @@ you will be re-directed to the DRI website.
 
    End User Agreement
 
+Choosing a language
+-------------------
+
+It is possible to view the Repository in either the Irish or English language. To toggle
+between languages use the drop-down menu in the top right (1).
+
+.. figure:: images/language-menu.png
+   :alt: Language menu
+
+   Language selection menu
+
 Creating an account
 -------------------
 
