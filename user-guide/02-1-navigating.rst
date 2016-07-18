@@ -3,21 +3,23 @@ Navigating the Repository
 
 From the Repository homepage you can navigate to all sections of the site. You can choose to view
 one of the featured collections or objects, or to see all collections available 
-follow the 'Discover' link (1) in the navigation bar.
+follow the 'Discover' link in the navigation bar.
 
 Browsing
 ---------
-'Discover' brings you to the main search page of the Repository.
+'Discover' (1) brings you to the main search page of the Repository.
 
 .. figure:: images/discover.png
    :alt: Discover page screenshot
 
    Discover page
 
-Initially the search results displayed are all collections available. Use the pagination links in 
-the top right (2) to navigate the results. Your search can be refined using the facet bar (3) on the right.
+The first tab, selected by default, displays the collections in the Repository. You can browse the available collections
+using the pagination links in the top right (2). You can reduce the number of collections or objects displayed 
+with the facet bar (3) on the right. Click to expand the options and choose the terms that you would like to view.
+
 Some of the collections in the Repository include sub-collections within them. If you would like these
-to be included in the displayed results click the Sub-Collections tab (4). To hide them simply click the tab
+to be shown together with the collections click the Sub-Collections tab (4). To hide them simply click the tab
 again.
 
 .. figure:: images/subcollections.png
@@ -25,15 +27,27 @@ again.
 
    Discover page including sub-collections
 
-Selecting the Objects tab will allow for searching all the objects available in the Repository.
+Selecting the Objects tab will display the objects contained within the collections returned by the current search.
 
 Searching
 ----------
-As stated you can filter the results of your search using the facet bar (1). Clicking on a facet within the bar will
+The search box can be used to find collections or objects containing particular terms within their descriptive metadata.
+To search for simple combinations of words simply type them into the box and press enter. By default individual words
+in the search will be joined with AND, meaning that the search will look for metadata containing all the words entered.
+
+You can also search for metadata containing any of the words by using an OR operation, e.g., Dublin OR Galway.
+
+To search for specific phrases enclose the search in quotes, e.g., "Easter Rising".
+
+.. figure:: images/search-box.png
+   :alt: Search box
+
+   Search box
+
+The results of your search can be further refined using the facet bar (1). Clicking on a facet within the bar will
 expand the available filtering options (2). Select one or more of these options and the filtered results will be
 displayed. The selected filters will be shown at the top of results display (3). Filters can be removed
-from the search by clicking the white X in either the facet bar, or beside the filter (4) in the list 
-above the results. 
+from the search by clicking the white X in either the facet bar or beside the filter (4).
 
 .. figure:: images/facets.png
    :alt: Faceted search results
@@ -47,6 +61,7 @@ at the top of the results display. There are also options for a map and timeline
    :alt: Viewing results as list
 
    Search results with list display selected.
+
 
 Viewing
 --------
