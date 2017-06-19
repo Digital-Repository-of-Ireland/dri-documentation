@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-User Manual
+Depositor Manual
 =========================================================
 
 Contents:
@@ -12,5 +12,4 @@ Contents:
    :maxdepth: 2
    
    01-intro
-   02-get-started
-   02-1-navigating
+   02-ingest

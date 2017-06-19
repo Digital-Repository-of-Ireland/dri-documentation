@@ -7,6 +7,7 @@ Guides
    :maxdepth: 1
 
    user-guide/index
+   depositor-guide/index
 
 Search
 ======

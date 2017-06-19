@@ -22,11 +22,6 @@ Some of the collections in the Repository include sub-collections within them. I
 to be shown together with the collections click the Sub-Collections tab (4). To hide them simply click the tab
 again.
 
-.. figure:: images/subcollections.png
-   :alt: Discover page with sub-collections included
-
-   Discover page including sub-collections
-
 Selecting the Objects tab will display the objects contained within the collections returned by the current search.
 
 Searching
@@ -77,7 +72,7 @@ are viewing a collection or an object.
 The collection display shows the metadata describing the collection. In the right hand sidebar there is a link that
 will return all the objects contained in the collection as a search result (1). A list of links to objects grouped by type 
 is also shown (2). In the Object Tools menu there is a link to display a citation (3). The citation will contain
-the Digital Object Identifier assigned to the collection (if the collection has been published). The link to the full metadata
+the Digital Object Identifier assigned to the collection (if the collection has been published). The link to the full metadata (4)
 will display the metadata used to create the collection in its original standard. You can download the metadata in XML format
 from the full metadata dialog (1).
 
@@ -90,8 +85,7 @@ The object display page also contains the object tools menu, allowing you to vie
 a citation. The object display also contains a viewer (1) for any assets attached to the object. The type of display will vary
 depending on the asset type. For example, if the asset is an audio file an audio player will be shown. Images will be displayed
 here also. Clicking on the image (2) will display a larger version in a separate dialog. If there are multiple assets attached to the
-object arrows (3) will be shown to allow you to scroll between them. A surrogate of each asset, and possibly also the original master
-asset (depending on permissions) can be download using the download links (4).
+object arrows (3) will be shown to allow you to scroll between them. You can choose to download a surrogate of each asset, and possibly also the original master asset (depending on permissions) from the download modal that can be opened with the download link (4).
 
 .. figure:: images/surrogate-display.png
    :alt: Asset viewer
