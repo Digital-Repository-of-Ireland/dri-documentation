@@ -83,11 +83,26 @@ from the full metadata dialog (1).
 
 The object display page also contains the object tools menu, allowing you to view the full metadata of the object and to view
 a citation. The object display also contains a viewer (1) for any assets attached to the object. The type of display will vary
-depending on the asset type. For example, if the asset is an audio file an audio player will be shown. Images will be displayed
-here also. Clicking on the image (2) will display a larger version in a separate dialog. If there are multiple assets attached to the
-object arrows (3) will be shown to allow you to scroll between them. You can choose to download a surrogate of each asset, and possibly also the original master asset (depending on permissions) from the download modal that can be opened with the download link (4).
+depending on the asset type. For example, if the asset is an audio file an audio player will be shown. If there are multiple assets 
+attached to the object arrows (3) will be shown to allow you to scroll between them. You can choose to download a surrogate of 
+each asset, and possibly also the original master asset (depending on permissions) from the download modal that can be opened with 
+the download link (4).
+
+Clicking on the asset preview (2) will launch a separate viewer, either a PDF or image viewer depending on the type of the asset.
 
 .. figure:: images/surrogate-display.png
    :alt: Asset viewer
 
    Asset viewer.
+
+.. figure:: images/download-modal.png
+   :alt: Download modal
+
+   Download modal.
+
+The PDF viewer will allow you to page through the PDF file. With the image viewer you can zoom in to the image and also navigate
+between assets if there are multiple assets attached to the object. If the system has not been able to generate a web renderable
+version of the asset you can still download the asset using the download modal described above.
+
+
+

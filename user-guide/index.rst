@@ -14,3 +14,4 @@ Contents:
    01-intro
    02-get-started
    02-1-navigating
+   03-tools
