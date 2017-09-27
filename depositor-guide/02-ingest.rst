@@ -11,8 +11,8 @@ The Repository web UI provides two options for creating objects, form entry and 
 In order to use either of these options a collection must exist for the object to be added to.
 
 The ability to create a collection will depend on your level of permissions within the Repository.
-If you have the required permissions then in the main navigation you will be able to see the 
-'Manage' menu and within this the 'New Collection' option. 
+If you have the required permissions then in your workspace (1) in the Manage section you will be able to see
+the 'New Collection' (2)  option. 
 
 .. figure:: images/new_collection.png
    :alt: New collection menu option
@@ -44,7 +44,12 @@ Adding objects
 ---------------
 
 Adding objects to an existing collection is done from the display page for that collection. You can navigate to 
-the collection through the Discover tab, as described above.
+the collection through the 'My Collections' link found in your workspace.
+
+.. figure:: images/my_collections.png
+      :alt: My Collections link
+
+   My Collections workspace link
 
 On the right hand side of the collection display page you should see the editor tools menu (1). There are
 two options for adding objects: Add an Object (2), and Upload Object XML (3). If you have an existing
