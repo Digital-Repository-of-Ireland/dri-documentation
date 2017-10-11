@@ -47,7 +47,7 @@ Adding objects to an existing collection is done from the display page for that 
 the collection through the 'My Collections' link found in your workspace.
 
 .. figure:: images/my_collections.png
-      :alt: My Collections link
+   :alt: My Collections link
 
    My Collections workspace link
 
