@@ -4,7 +4,7 @@ Creating
 This chapter covers how to create collections and their objects in the Repository. It goes on to describe how
 to add assets (i.e. files, e.g., images, videos, PDF)  to the objects.
 
-Creating a collection
+Creating collections
 ----------------------
 
 The Repository web UI provides two options for creating objects, form entry and XML upload.
