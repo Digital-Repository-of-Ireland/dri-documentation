@@ -12,4 +12,5 @@ Contents:
    :maxdepth: 2
    
    01-intro
+   01-2-organise
    02-ingest
