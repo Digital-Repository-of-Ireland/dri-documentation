@@ -122,9 +122,16 @@ option. Pressing this will upload the asset and attach it to the object.
 
 Once uploaded a message indicating if the upload was successful will be displayed. The Repository will now process
 the uploaded asset for display. For example, in the case of an image, a thumbnail and several other 
-surrogates of various sizes will be created. Until these background processes are completed a temporary message
-will be shown in the asset display. To check on the progress of these jobs you can select Asset Details (1) in the 
-Asset Tools menu (2). You can also delete the asset from this menu (3).
+web-friendly images of various sizes will be created. This is carried out by a pipeline of background processes. Until these 
+are completed a temporary message will be shown in the asset display. 
+
+.. figure:: images/background_jobs.png
+   :alt: Background processes triggered by asset upload
+
+   Asset upload processing pipeline
+
+To check on the progress of these processes you can select Asset Details (1) in the Asset Tools menu (2). 
+You can also delete the asset from this menu (3).
 
 .. figure:: images/asset-tools.png
    :alt: Asset tools menu
