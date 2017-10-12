@@ -25,19 +25,18 @@ The options for editing are:
 
 It is also possible to associate organisations with the collection by selecting 'Manage Organisations' from the
 editor tools. In the Manage Organisations modal there are two lists, the available organisations on the left (1)
-and those that are currently associated with the collection on the right (2). To add an available organisation highlight 
-it in the list and click the right arrow (3) to move it to the selected organisations. It can be de-selected by highlighting
-in the selected list and clicking the left arrow (4). At least one of the selected organisations should be set as the
-depositing organisation. This is done by selecting the correct organisation in the drop down (5). Pressing 'Set Organisations'
-will save your changes.
+and those that are currently associated with the collection on the right (2). Move organisations between the lists
+by selecting them and using the right (3) and left (4) arrows. At least one of the selected organisations should be set as the
+depositing organisation. This is done by selecting the organisation in the depositing organisation drop down (5). 
+Save your changes by pressing 'Set Organisations'.
 
 .. figure:: images/manage_orgs.png
    :alt: Manage organisations modal
 
    Manage organisations
 
-Once set the logos of the associated organisations will be displayed on the collection page in the
-Organisations and Sponsors section.
+Once set the logos of the associated organisations will be displayed in the
+Organisations and Sponsors section of the collection page.
 
 .. figure:: images/org_logos.png
    :alt: Organisations display
