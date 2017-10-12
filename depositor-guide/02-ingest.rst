@@ -31,19 +31,44 @@ your Organisation Manager to carry out these tasks on your behalf.
 Clicking the 'New Collection' menu item (if available) will bring you to the web form for 
 collection creation. This form allows you to enter the metadata to describe the new collection.
 The form requires that a minimum set of metadata fields are entered before the collection
-can be created. You can also choose a licence (1) to apply to the objects within the collection and set 
+can be created. You can also choose a licence (1) |licencing| to apply to the objects within the collection and set 
 the required access controls (2). Before you can submit the form you must check the box (3) to indicate
 that you agree to the terms of the deposit agreement. 
+
+.. |licencing| image:: images/learn-more.png
+   :target: https://repository.dri.ie/objects/rb699s72v/files/rf56bp56q/download?type=surrogate
 
 .. figure:: images/submit_collection_form.png
    :alt: Collection form submission
 
    Submitting the collection form
 
+Sub-Collections
+---------------
+
+If desired collections can be further organised by being divided into sub-collections. The option to create a sub-collection 
+can be found on the main collection page under the editor tools (1).
+
+.. figure:: images/subcoll_editor_tools.png
+   :alt: Collection editor tools
+
+   Sub-collection menu item
+
+This menu item will bring you to a form, similar to that used to create collections, where you can enter the sub-collection's
+descriptive metadata. By default a sub-collection will inherit it's access permissions from the parent collection, so the
+form does not include the access control section. It is possible to edit these after the sub-collection has been created.
+
+Once created the sub-collection will be displayed on the parent collection page, as shown below.
+
+.. figure:: images/subcoll_display.png
+   :alt: Sub-collection display
+
+   Sub-collection display
+
 Adding objects
 ---------------
 
-Adding objects to an existing collection is done from the display page for that collection. You can navigate to 
+Adding objects to an existing collection, or sub-collection,  is done from the display page for that collection. You can navigate to 
 the collection through the 'My Collections' link found in your workspace.
 
 .. figure:: images/my_collections.png
