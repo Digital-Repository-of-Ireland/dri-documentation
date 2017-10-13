@@ -16,4 +16,5 @@ Contents:
    01-2-organise
    02-ingest
    03-edit
+   04-review-and-publish
 
