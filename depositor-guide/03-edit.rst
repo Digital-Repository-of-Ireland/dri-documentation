@@ -7,9 +7,10 @@ Collections
 ------------
 
 The available options for editing a collection can be found in the editor tool menu 
-'Edit Collection' dropdown. The content of this dropdown will vary depending on
+'Edit Collection' dropdown (:numref:`fig-edit-collection`). The content of this dropdown will vary depending on
 the role that has been granted to your user account.
 
+.. _fig-edit-collection:
 .. figure:: images/edit_collection.png
    :alt: Edit collection menu option
 
@@ -24,20 +25,24 @@ The options for editing are:
    will be displayed on the object pages
 
 It is also possible to associate organisations with the collection by selecting 'Manage Organisations' from the
-editor tools. In the Manage Organisations modal there are two lists, the available organisations on the left (1)
-and those that are currently associated with the collection on the right (2). Move organisations between the lists
-by selecting them and using the right (3) and left (4) arrows. At least one of the associated organisations should be set as the
-depositing organisation by selecting the organisation in the depositing organisation drop down (5). 
+editor tools (:numref:`fig-manage-organisations`). In the Manage Organisations modal there are two lists, 
+the available organisations on the left (:numref:`fig-manage-organisations` (1))
+and those that are currently associated with the collection on the right (:numref:`fig-manage-organisations` (2)). 
+Move organisations between the lists by selecting them and using the right (:numref:`fig-manage-organisations` (3)) 
+and left (:numref:`fig-manage-organisations` (4)) arrows. At least one of the associated organisations should be set as the
+depositing organisation by selecting the organisation in the depositing organisation drop down (:numref:`fig-manage-organisations` (5)). 
 Save your changes by pressing 'Set Organisations'.
 
+.. _fig-manage-organisations:
 .. figure:: images/manage_orgs.png
    :alt: Manage organisations modal
 
    Manage organisations
 
-Once set, the logos of the associated organisations will be displayed in the
-Organisations and Sponsors section of the collection page.
+Once set, the logos of the associated organisations will be displayed in the Organisations and Sponsors section of 
+the collection page (:numref:`fig-orgs-display`).
 
+.. _fig-orgs-display:
 .. figure:: images/org_logos.png
    :alt: Organisations display
 
@@ -46,9 +51,10 @@ Organisations and Sponsors section of the collection page.
 Objects
 --------
 
-As with collections, the options for editing an object can be found in the Edit section of the Editor Tools menu.
+As with collections, the options for editing an object can be found in the Edit section of the Editor Tools menu (:numref:`fig-edit-object`).
 The options may be different depending on your level of access.
 
+.. _fig-edit-object:
 .. figure:: images/edit_object.png
    :alt: Edit object menu option
 

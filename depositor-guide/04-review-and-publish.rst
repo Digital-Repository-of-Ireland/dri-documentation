@@ -9,17 +9,19 @@ Reviewing
 
 Setting the status of an object to *reviewed* indicates that editing of the descriptive metadata has been 
 completed. Also that any attached assets are displaying correctly and all background
-processes have finished. Individual objects can be set as reviewed from the object Editor Tools menu (1).
+processes have finished. Individual objects can be set as reviewed from the object Editor Tools menu (:numref:`fig-review-object` (1)).
 
+.. _fig-review-object:
 .. figure:: images/review_object.png
    :alt: Review object menu option
 
    Review individual object
 
 Alternatively it is possible to set all draft objects contained within a collection and it's sub-collections to reviewed using the 
-collection Editor Tools menu (2). This section of the menu provides a summary of the number of sub-collections
+collection Editor Tools menu (:numref:`fig-review-coll` (2)). This section of the menu provides a summary of the number of sub-collections
 and objects by status, either *draft*, *reviewed* or *published*.
 
+.. _fig-review-coll:
 .. figure:: images/review_collection.png
    :alt: Review collection objects menu
 
@@ -33,8 +35,9 @@ Publishing
 
 The second step is to publish the reviewed objects. This operation can only be carried out by an Organisational or Collection Manager and 
 must be done from the top level collection. As such this will publish all reviewed objects contained within it, including those in sub-collections. If the status summary information shows that there are reviewed sub-collections and objects they can be published
-by pressing the publish button (1). 
+by pressing the publish button (:numref:`fig-publish` (1)). 
 
+.. _fig-publish:
 .. figure:: images/publish_collection.png
    :alt: Publish collection objects menu
 
