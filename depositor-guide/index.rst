@@ -15,6 +15,7 @@ Contents:
    01-1-roles
    01-2-organise
    02-ingest
+   02-2-adding
    03-edit
    04-review-and-publish
 
