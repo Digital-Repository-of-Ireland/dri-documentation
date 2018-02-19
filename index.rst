@@ -8,6 +8,7 @@ Guides
 
    user-guide/index
    depositor-guide/index
+   demos/index
 
 Search
 ======
