@@ -73,14 +73,23 @@ Until these are completed a temporary message will be shown in the asset display
 
    Asset upload processing pipeline
 
-To check on the progress of these processes you can select Asset Details (:numref:`fig-asset-tools` (1)) in the Asset Tools 
-menu (:numref:`fig-asset-tools` (2)). You can also delete the asset from this menu (:numref:`fig-asset-tools` (3)).
+To check on the progress of these processes you can select View Assets (:numref:`fig-asset-tools` (1)) in the Asset Tools 
+menu. 
 
 .. _fig-asset-tools:
 .. figure:: images/asset-tools.png
    :alt: Asset tools menu
 
    Asset tools menu
+
+This page list all the assets currently attached to the object. Here you can see the current processing status of the asset (:numref:`fig-assets` (1)).
+To get more information you can view the asset details (:numref:`fig-assets` (2)). You can also delete the asset (:numref:`fig-assets` (3)).
+
+.. _fig-assets:
+.. figure:: images/assets.png
+   :alt: View Assets
+
+   View Assets
 
 On the asset details page (:numref:`fig-asset-details`) you can view the metadata automatically extracted from the uploaded 
 file (:numref:`fig-asset-details` (1)). You can also see the progress and status of the background processes (:numref:`fig-asset-details` (2)). This will show if the task has succeeded or in the case of a failure will show the error. You can also choose to replace the asset with a different file (:numref:`fig-asset-details` (3)).
