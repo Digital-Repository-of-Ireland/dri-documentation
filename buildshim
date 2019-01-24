@@ -5,12 +5,13 @@ patch)
     ;;
 install_deps)
     sudo apt-get -y install python-pip
-    pip install  -U sphinx
+    pip install  --user sphinx
     pip install --user sphinx_rtd_theme
     ;;
 configure)
     ;;
 compile)
+    export PATH=~/.local/bin:$PATH
     make html
     ;;
 check)
