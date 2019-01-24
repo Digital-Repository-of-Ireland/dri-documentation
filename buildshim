@@ -4,7 +4,7 @@ case $1 in
 patch)
     ;;
 install_deps)
-    sudo apt-get install python-pip
+    sudo apt-get -y install python-pip
     pip install --user sphinx_rtd_theme
     ;;
 configure)
