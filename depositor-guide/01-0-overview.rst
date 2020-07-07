@@ -5,7 +5,7 @@ Guide to Deposit
     :widths: 50 50
 
     +-----------------------------------------------+-----------------------------------------------+
-    | Step 1: Evaluate your Collection              | Step 2: Data Preparation                      |
+    | **Step 1: Evaluate your Collection**          | **Step 2: Data Preparation**                  |
     +-----------------------------------------------+-----------------------------------------------+
     | .. figure:: images/guide-1.png                | .. figure:: images/guide-2.png                |
     |    :alt: Collection evaluation                |    :alt: Data Preparation                     |
@@ -57,7 +57,7 @@ Guide to Deposit
     |                                               | `ORCID Factsheet                              |
     |                                               | <https://dri.ie/>`_                           |
     +-----------------------------------------------+-----------------------------------------------+
-    | Step 3: Understanding Adminitrative Roles     | Step 4: Ingest Digital Objects                |
+    | **Step 3: Understanding Adminitrative Roles** | **Step 4: Ingest Digital Objects**            |
     +-----------------------------------------------+-----------------------------------------------+
     | .. figure:: images/guide-3.png                | .. figure:: images/guide-4.png                |
     |    :alt: Adminitrative Roles                  |    :alt: Ingesting Digital Objects            |
@@ -97,7 +97,7 @@ Guide to Deposit
     | <https://repository.dri.ie/pages/about_faq>`_ | `DRI Batch Metadata Template (2019)           |
     |                                               | <https://doi.org/10.7486/DRI.qn603p95v>`_     |
     +-----------------------------------------------+-----------------------------------------------+
-    | Step 5: Publish your Collection               | Step 6: Preservation and Reuse                |
+    | **Step 5: Publish your Collection**           | **Step 6: Preservation and Reuse**            |
     +-----------------------------------------------+-----------------------------------------------+
     | .. figure:: images/guide-5.png                | .. figure:: images/guide-6.png                |
     |    :alt: Publishing your collection           |    :alt: Preservation and Reuse               |
