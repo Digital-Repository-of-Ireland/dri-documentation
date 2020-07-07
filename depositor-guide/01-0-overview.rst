@@ -42,7 +42,7 @@ Guide to Deposit
 |                                               | of Ireland (August 2016)                      |
 |                                               | <https://doi.org/10.7486/DRI.rj43ck28s>`_     |
 |                                               |                                               |
-|                                               | MODS and the Digital Repository of Ireland    |
+|                                               | `MODS and the Digital Repository of Ireland   |
 |                                               | (February 2016)                               |
 |                                               | <https://doi.org/10.7486/DRI.rr17fb96g>`_     |
 |                                               |                                               |
