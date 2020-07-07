@@ -9,7 +9,6 @@ Guide to Deposit
     +-----------------------------------------------+-----------------------------------------------+
     | .. figure:: images/guide-1.png                | .. figure:: images/guide-2.png                |
     |    :alt: Collection evaluation                |    :alt: Data Preparation                     |
-    +-----------------------------------------------+-----------------------------------------------+
     |                                               |                                               |
     | Assess your collection in terms               | DRI follows best practice guidelines          |
     | of DRI’s remit and collection policy.         | in terms of digital formats and metadata      |
@@ -62,7 +61,6 @@ Guide to Deposit
     +-----------------------------------------------+-----------------------------------------------+
     | .. figure:: images/guide-3.png                | .. figure:: images/guide-4.png                |
     |    :alt: Adminitrative Roles                  |    :alt: Ingesting Digital Objects            |
-    +-----------------------------------------------+-----------------------------------------------+
     |                                               |                                               |
     | DRI have developed policies and procedures    | Data ingestion to the Repository happens      |
     | to support data ingestion to the repository   | in three different ways, a single ingest      |
@@ -103,7 +101,6 @@ Guide to Deposit
     +-----------------------------------------------+-----------------------------------------------+
     | .. figure:: images/guide-5.png                | .. figure:: images/guide-6.png                |
     |    :alt: Publishing your collection           |    :alt: Preservation and Reuse               |
-    +-----------------------------------------------+-----------------------------------------------+
     |                                               |                                               |
     | Once you have reviewed your collection and    | Once your collection is published on DRI’s    |
     | are satisfied that you have set appropriate   | platform, your digital objects are stored in  |
