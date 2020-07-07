@@ -4,7 +4,7 @@ Guide to Deposit
 +-----------------------------------------------+-----------------------------------------------+
 | Step 1: Evaluate your Collection              | Step 2: Data Preparation                      |
 +-----------------------------------------------+-----------------------------------------------+
-| .. figure:: images/guide-1.png               | .. figure:: images/guide-2.png               |
+| .. figure:: images/guide-1.png                | .. figure:: images/guide-2.png                |
 |    :alt: Collection evaluation                |    :alt: Data Preparation                     |
 +-----------------------------------------------+-----------------------------------------------+
 |                                               |                                               |
@@ -59,7 +59,7 @@ Guide to Deposit
 +-----------------------------------------------+-----------------------------------------------+
 | Step 3: Understanding Adminitrative Roles     | Step 4: Ingest Digital Objects                |
 +-----------------------------------------------+-----------------------------------------------+
-| .. figure:: images/guide-3.png               | .. figure:: images/guide-4.png               |
+| .. figure:: images/guide-3.png                | .. figure:: images/guide-4.png                |
 |    :alt: Adminitrative Roles                  |    :alt: Ingesting Digital Objects            |
 +-----------------------------------------------+-----------------------------------------------+
 |                                               |                                               |
@@ -103,7 +103,7 @@ Guide to Deposit
 +-----------------------------------------------+-----------------------------------------------+
 | Step 5: Publish your Collection               | Step 6: Preservation and Reuse                |
 +-----------------------------------------------+-----------------------------------------------+
-| .. figure:: images/guide-5.png               | .. figure:: images/guide-6.png               |
+| .. figure:: images/guide-5.png                | .. figure:: images/guide-6.png                |
 |    :alt: Publishing your collection           |    :alt: Preservation and Reuse               |
 +-----------------------------------------------+-----------------------------------------------+
 |                                               |                                               |
