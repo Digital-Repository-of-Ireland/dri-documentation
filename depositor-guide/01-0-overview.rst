@@ -8,14 +8,14 @@ Guide to Deposit
 |    :alt: Collection evaluation                |    :alt: Data Preparation                     |
 +-----------------------------------------------+-----------------------------------------------+
 |                                               |                                               |
-| Assess your collection in terms               |  DRI follows best practice guidelines         |
-| of DRI’s remit and collection policy.         |  in terms of digital formats and metadata     |
-| Our collection policy will provide            |  creation. This allows for                    |
-| you with an overview of the types of          |  interoperability and enhances                |
-| data, digital assets and collections          |  discoverability in digital repositories.     |
-| which the Digital Repository of               |  We have developed a series of metadata       |
-| Ireland aims to preserve. You should          |  guidelines for DRI and metadata quality      |
-| also review the file formats,                 |  control among others.                        |
+| Assess your collection in terms               | DRI follows best practice guidelines          |
+| of DRI’s remit and collection policy.         | in terms of digital formats and metadata      |
+| Our collection policy will provide            | creation. This allows for                     |
+| you with an overview of the types of          | interoperability and enhances                 |
+| data, digital assets and collections          | discoverability in digital repositories.      |
+| which the Digital Repository of               | We have developed a series of metadata        |
+| Ireland aims to preserve. You should          | guidelines for DRI and metadata quality       |
+| also review the file formats,                 | control among others.                         |
 | metadata and the copyright status of          |                                               |
 | your collection. If your research             |  **Resources:**                               |
 | involves people, you should also              |                                               |
