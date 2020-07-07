@@ -17,7 +17,7 @@ Guide to Deposit
 | Ireland aims to preserve. You should          | guidelines for DRI and metadata quality       |
 | also review the file formats,                 | control among others.                         |
 | metadata and the copyright status of          |                                               |
-| your collection. If your research             | **Resources:**                               |
+| your collection. If your research             | **Resources:**                                |
 | involves people, you should also              |                                               |
 | review the DRI Restricted Data policy.        | `Metadata Factsheet                           |
 |                                               | <https://doi.org/10.7486/DRI.bz60sj10d>`_     |
