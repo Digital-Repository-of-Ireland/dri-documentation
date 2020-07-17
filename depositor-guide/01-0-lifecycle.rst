@@ -1,5 +1,5 @@
-Guide to Deposit
-================
+The Data Life cycle
+===================
 
 **Step 1: Evaluate your Collection**   
 
