@@ -11,6 +11,7 @@ Assess your collection in terms of DRI’s remit and collection policy. Our coll
 **Resources:** 
 
 `DRI Collection Policy (Apr 2015) <https://doi.org/10.7486/DRI.s465jx541>`_
+
 `DRI Restricted Data Policy (Amended 2019) <https://doi.org/10.7486/DRI.8623xk58w>`_
 
 |
