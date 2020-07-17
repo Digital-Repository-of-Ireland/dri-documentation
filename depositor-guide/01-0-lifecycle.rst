@@ -13,6 +13,8 @@ Assess your collection in terms of DRI’s remit and collection policy. Our coll
 `DRI Collection Policy (Apr 2015) <https://doi.org/10.7486/DRI.s465jx541>`_
 `DRI Restricted Data Policy (Amended 2019) <https://doi.org/10.7486/DRI.8623xk58w>`_
 
+|
+|
 
 **Step 2: Data Preparation**
 
@@ -43,6 +45,8 @@ DRI follows best practice guidelines in terms of digital formats and metadata cr
 
 TODO: Add ORCID factsheet
 
+|
+|
 
 **Step 3: Understanding Adminitrative Roles**
 
@@ -65,6 +69,8 @@ DRI have developed policies and procedures to support data ingestion to the repo
 
 `FAQ <https://repository.dri.ie/pages/about_faq>`_
 
+|
+|
 
 **Step 4: Ingest Digital Objects** 
 
@@ -89,7 +95,8 @@ Data ingestion to the Repository happens in three different ways, a single inges
 
 `DRI Batch Metadata Template (2019) <https://doi.org/10.7486/DRI.qn603p95v>`_
 
-
+|
+|
 
 **Step 5: Publish your Collection**  
 
@@ -110,6 +117,8 @@ Once you have reviewed your collection and are satisfied that you have set appro
 
 `FAQ <https://repository.dri.ie/pages/about_faq>`_
 
+|
+|
 
 **Step 6: Preservation and Reuse** 
 
