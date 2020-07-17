@@ -43,8 +43,6 @@ DRI follows best practice guidelines in terms of digital formats and metadata cr
 
 `DRI Recommended Vocabularies <https://dri.ie/vocabularies>`_
 
-TODO: Add ORCID factsheet
-
 |
 |
 
