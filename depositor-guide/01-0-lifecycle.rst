@@ -1,7 +1,8 @@
 The Data Life cycle
 ===================
 
-**Step 1: Evaluate your Collection**   
+Step 1: Evaluate your Collection
+--------------------------------
 
 .. figure:: images/guide-1.png
    :alt: Collection evaluation  
@@ -17,7 +18,8 @@ Assess your collection in terms of DRI’s remit and collection policy. Our coll
 |
 |
 
-**Step 2: Data Preparation**
+Step 2: Data Preparation
+------------------------
 
 .. figure:: images/guide-2.png
    :alt: Data Preparation
@@ -47,7 +49,8 @@ DRI follows best practice guidelines in terms of digital formats and metadata cr
 |
 |
 
-**Step 3: Understanding Adminitrative Roles**
+Step 3: Understanding Adminitrative Roles
+-----------------------------------------
 
 .. figure:: images/guide-3.png
    :alt: Adminitrative Roles
@@ -71,7 +74,8 @@ DRI have developed policies and procedures to support data ingestion to the repo
 |
 |
 
-**Step 4: Ingest Digital Objects** 
+Step 4: Ingest Digital Objects
+------------------------------
 
 .. figure:: images/guide-4.png
    :alt: Ingesting Digital Objects
@@ -97,7 +101,8 @@ Data ingestion to the Repository happens in three different ways, a single inges
 |
 |
 
-**Step 5: Publish your Collection**  
+Step 5: Publish your Collection
+-------------------------------
 
 .. figure:: images/guide-5.png 
    :alt: Publishing your collection
@@ -119,7 +124,8 @@ Once you have reviewed your collection and are satisfied that you have set appro
 |
 |
 
-**Step 6: Preservation and Reuse** 
+Step 6: Preservation and Reuse
+------------------------------
 
 .. figure:: images/guide-6.png
    :alt: Preservation and Reuse
