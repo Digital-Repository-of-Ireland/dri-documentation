@@ -26,6 +26,8 @@ Step 2: Data Preparation
 
 DRI follows best practice guidelines in terms of digital formats and metadata creation. This allows for interoperability and enhances discoverability in digital repositories. We have developed a series of metadata guidelines for DRI and metadata quality control among others.
 
+Though DRI provides recommendations on formats for ingest, it will ingest non-standard formats, in an effort to balanace best practice with the realities of existing institutional data. DRI staff work closely with new Depositors to encourage the ingest of recommended formats, and will highlight poor format choices early in the Membership phase.
+
 **Resources:**
 
 `DRI Factsheet No. 1: Metadata and the DRI V2 <https://doi.org/10.7486/DRI.bz60sj10d>`_
