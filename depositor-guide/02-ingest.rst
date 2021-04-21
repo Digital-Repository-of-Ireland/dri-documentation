@@ -24,8 +24,8 @@ your Organisation Manager to carry out these tasks on your behalf.
 Clicking the 'New Collection' menu item (if available) will bring you to the web form for 
 collection creation (:numref:`fig-collection-form`). This form allows you to enter the metadata to describe 
 the new collection. The form requires that a minimum set of metadata fields are entered before the collection
-can be created. You can also choose a licence (:numref:`fig-submit-collection` (1)) |licencing| to apply to the 
-objects within the collection and set the required access controls (:numref:`fig-submit-collection` (2)). Before you 
+can be created. Licences and access controls are set on objects in DRI rather than collections, but via the form You can also choose a licence (:numref:`fig-submit-collection` (1)) |licencing| to apply to all the 
+objects within the collection and set the default access controls (:numref:`fig-submit-collection` (2)). Both options can be overridden at object level. Before you 
 can submit the form you must check the box (:numref:`fig-submit-collection` (3)) to indicate
 that you agree to the terms of the deposit agreement. 
 
