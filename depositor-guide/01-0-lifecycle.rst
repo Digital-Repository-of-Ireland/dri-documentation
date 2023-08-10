@@ -86,7 +86,7 @@ Data ingestion to the Repository happens in three different ways, a single inges
 
 **Resources:**
 
-`DRI Factsheet No. 2: Copyright, Licensing, and access (Feb 2014) <https://doi.org/10.7486/DRI.rb699s72v>`_
+`DRI Factsheet No. 2: Copyright, Licensing, and Open Access (2021) <https://doi.org/10.7486/DRI.v4066146t>`_
 
 `How to DRI: Protect Your Data (Jun 2015) <https://doi.org/10.7486/DRI.t148tz10k>`_
 
@@ -117,7 +117,7 @@ Once you have reviewed your collection and are satisfied that you have set appro
 
 `DRI Notice and Action Policy (Jan 2014, amended 2017) <https://doi.org/10.7486/DRI.vh5499702>`_
 
-`DRI Factsheet No. 7: Persistent Identifiers and DOIs (June 2015) <https://doi.org/10.7486/DRI.s752kt28n>`_
+`DRI Factsheet No. 7: Persistent Identifiers and DOIs (April 2021) <https://doi.org/10.7486/DRI.bk12p0477>`_
 
 `DRI Guides - Reviewing and Publishing <https://guides.dri.ie/depositor-guide/04-review-and-publish.html>`_
 
