@@ -103,13 +103,17 @@ file (:numref:`fig-asset-details` (1)). You can also see the progress and status
 Adding multiple objects
 -------------------------
 
-If you have multiple pre-existing metadata records it is also possible to add these as a batch into a collection. To do this it is necessary to arrange the metadata and any data files into a defined folder structure(:numref:`fig-ingest-folder`). Metadata records should be contained in one folder with data in another separate folder. Data files are matched to their metadata record by filename, e.g., ``object_1.jpg`` will be attached to ``object_1.xml``. It is possible to connect multiple data files with a single metadata record by appending an increasing count to the data filenames, e.g., ``object_1_1.jpg``, ``object_1_2.jpg`` would both be associated with ``object_1.xml``.  
+If you have multiple pre-existing metadata records it is also possible to add these as a batch into a collection. To do this it is necessary to arrange the metadata and any data files into a defined folder structure(:numref:`fig-ingest-folder`). Metadata records should be contained in one folder with data in another separate folder. 
 
 .. _fig-ingest-folder:
 .. figure:: images/ingest_folder.png
    :alt: Ingest folder structure
 
    Folder structure
+
+Data files are matched to their metadata record by filename, e.g., ``object_1.jpg`` will be attached to ``object_1.xml``. It is possible to connect multiple data files with a single metadata record by appending an increasing count to the data filenames, e.g., ``object_1_1.jpg``, ``object_1_2.jpg`` would both be associated with ``object_1.xml``. The display order of files added in this way will match the count, i.e., ``_1.jpg`` will display first, ``_2.jpg`` second, and so on.
+
+If the order of the data files is not important, or the filenames need to be preserved, the files can instead be added to a folder with the same name as the object's metadata file. So for the structure shown above where the metadata is stored in ``Metadata/object_1.xml``, files can be placed in ``Data/object_1/``, e.g., ``Data/object_1/afile.jpg``, ``Data/object_1/someotherfile.tif``. All the files found in this folder will be attached to the object. The display order of the data files can not be determined or modified later.
 
 The next step is to make the data available to the Repository by copying it to a staging area through the DRI hosted Nextcloud server, that can be found at https://repository.dri.ie/cloud. In Nextcloud create the same folder structure as described above and upload the metadata records and data files.
 
