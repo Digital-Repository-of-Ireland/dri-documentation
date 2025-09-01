@@ -26,7 +26,7 @@ to the Repository. If not, you can create the object's metadata using the object
 
 The form for creating an object is very similar to that described for creating a collection. You can
 get more information on the fields and how they should be completed in 
-`DRI's metadata guidelines <http://dri.ie/sites/default/files/files/dri-dublin-core-metadata-guidelines-V2.pdf>`_.
+`DRI's metadata guidelines <https://doi.org/10.7486/DRI.5425zz83q>`_.
 
 Choosing to upload XML will direct you to the file uploader (:numref:`fig-file-upload` (1)). Clicking on the 
 'Upload Metadata file' (:numref:`fig-file-upload` (2)) box will open

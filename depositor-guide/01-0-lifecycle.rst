@@ -34,17 +34,17 @@ Though DRI provides recommendations on formats for ingest, it will ingest non-st
  
 `Dublin Core and the Digital Repository of Ireland: Version 3 (Updated January 2020) <https://doi.org/10.7486/DRI.2z119b06h>`_
 
-`Qualified Dublin Core and the Digital Repository of Ireland: Version 2 (Updated January 2020) <https://doi.org/10.7486/DRI.3198b690b>`_
+`Qualified Dublin Core and the Digital Repository of Ireland: Version 2 (Updated January 2020) <https://doi.org/10.7486/DRI.5425zz83q>`_
 
 `Metadata Quality Control (Apr 2020) <https://doi.org/10.7486/DRI.c821w6752>`_
 
-`DRI Factsheet No. 3: File Formats (Updated November 2018) <https://doi.org/10.7486/DRI.jw82mv08x>`_
+`DRI Factsheet No. 3: File Formats (Updated November 2018) <https://doi.org/10.7486/DRI.jw82mv08x-1>`_
 
 `EAD, ISAD(G) and the Digital Repository of Ireland (August 2016) <https://doi.org/10.7486/DRI.rj43ck28s>`_
 
 `MODS and the Digital Repository of Ireland (February 2016) <https://doi.org/10.7486/DRI.rr17fb96g>`_
 
-`DRI Batch Metadata Template (2019) <https://doi.org/10.7486/DRI.qn603p95v>`_
+`DRI Batch Metadata Template (2024) <https://doi.org/10.7486/DRI.qn603p95v-8>`_
 
 `DRI Recommended Vocabularies <https://dri.ie/vocabularies>`_
 
@@ -65,13 +65,13 @@ DRI have developed policies and procedures to support data ingestion to the repo
 
 `DRI Depositor Manual: User Roles <https://guides.dri.ie/depositor-guide/01-1-roles.html>`_
 
-`DRI Organisational Manager Agreement (Feb 2018) <https://doi.org/10.7486/DRI.zk527x75s>`_
+`DRI Organisational Manager Agreement (Feb 2018) <https://doi.org/10.7486/DRI.zk527x75s-1>`_
 
 `DRI Deposit Terms and Conditions (Jan 2018) <https://doi.org/10.7486/DRI.1544r4085>`_
 
 `DRI Factsheet No. 5: About DRI Membership (Aug 2016) <https://doi.org/10.7486/DRI.rv04g792m>`_
 
-`FAQ <https://repository.dri.ie/pages/about_faq>`_
+`FAQ <https://dri.ie/general-faq>`_
 
 |
 |
@@ -98,7 +98,7 @@ Data ingestion to the Repository happens in three different ways, a single inges
 
 `DRI Guides - Batch Ingest <https://guides.dri.ie/demos/01-batch-ingest.html>`_
 
-`DRI Batch Metadata Template (2019) <https://doi.org/10.7486/DRI.qn603p95v>`_
+`DRI Batch Metadata Template (2019) <https://doi.org/10.7486/DRI.qn603p95v-8>`_
 
 |
 |
@@ -121,7 +121,7 @@ Once you have reviewed your collection and are satisfied that you have set appro
 
 `DRI Guides - Reviewing and Publishing <https://guides.dri.ie/depositor-guide/04-review-and-publish.html>`_
 
-`FAQ <https://repository.dri.ie/pages/about_faq>`_
+`FAQ <https://dri.ie/general-faq>`_
 
 |
 |
