@@ -71,8 +71,6 @@ DRI have developed policies and procedures to support data ingestion to the repo
 
 `DRI Factsheet No. 5: About DRI Membership (Aug 2016) <https://doi.org/10.7486/DRI.rv04g792m>`_
 
-`FAQ <https://dri.ie/general-faq>`_
-
 |
 |
 
@@ -89,8 +87,6 @@ Data ingestion to the Repository happens in three different ways, a single inges
 `DRI Factsheet No. 2: Copyright, Licensing, and Open Access (2021) <https://doi.org/10.7486/DRI.v4066146t>`_
 
 `How to DRI: Protect Your Data (Jun 2015) <https://doi.org/10.7486/DRI.t148tz10k>`_
-
-`FAQ <https://repository.dri.ie/pages/about_faq>`_
 
 `How to DRI: Contextual Information <https://doi.org/10.7486/DRI.sn00qc64j>`_
 
@@ -121,8 +117,6 @@ Once you have reviewed your collection and are satisfied that you have set appro
 
 `DRI Guides - Reviewing and Publishing <https://guides.dri.ie/depositor-guide/04-review-and-publish.html>`_
 
-`FAQ <https://dri.ie/general-faq>`_
-
 |
 |
 
@@ -137,10 +131,4 @@ Once your collection is published on DRI’s platform, your digital objects are 
 **Resources:**
 
 `DRI Factsheet No. 4: Long-term Digital Preservation (Apr 2014) <https://doi.org/10.7486/DRI.rr17fc082-1>`_
-
-`FAQ <https://dri.ie/general-faq>`_
-
-
-
-
 
