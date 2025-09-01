@@ -138,7 +138,7 @@ Once your collection is published on DRI’s platform, your digital objects are 
 
 `DRI Factsheet No. 4: Long-term Digital Preservation (Apr 2014) <https://doi.org/10.7486/DRI.rr17fc082-1>`_
 
-`FAQ <https://repository.dri.ie/pages/about_faq>`_
+`FAQ <https://dri.ie/general-faq>`_
 
 
 
