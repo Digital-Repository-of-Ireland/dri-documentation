@@ -30,7 +30,7 @@ Though DRI provides recommendations on formats for ingest, it will ingest non-st
 
 **Resources:**
 
-`DRI Factsheet No. 1: Metadata and the DRI V2 <https://doi.org/10.7486/DRI.bz60sj10d>`_
+`DRI Factsheet No. 1: Metadata and the DRI V2 <https://doi.org/10.7486/DRI.1n79x018d>`_
  
 `Dublin Core and the Digital Repository of Ireland: Version 3 (Updated January 2020) <https://doi.org/10.7486/DRI.2z119b06h>`_
 
@@ -38,7 +38,7 @@ Though DRI provides recommendations on formats for ingest, it will ingest non-st
 
 `Metadata Quality Control (Apr 2020) <https://doi.org/10.7486/DRI.c821w6752>`_
 
-`DRI Factsheet No. 3: File Formats (Updated November 2018) <https://doi.org/10.7486/DRI.jw82mv08x-1>`_
+`DRI Factsheet No. 3: File Formats (Updated November 2018) <https://doi.org/10.7486/DRI.jw82mv08x>`_
 
 `EAD, ISAD(G) and the Digital Repository of Ireland (August 2016) <https://doi.org/10.7486/DRI.rj43ck28s>`_
 
