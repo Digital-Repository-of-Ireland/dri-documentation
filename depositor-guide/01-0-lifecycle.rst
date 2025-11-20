@@ -105,7 +105,7 @@ Step 5: Publish your Collection
 .. figure:: images/guide-5.png 
    :alt: Publishing your collection
 
-Once you have reviewed your collection and are satisfied that you have set appropriate access restrictions, copyright statements and licenses, and the metadata for each digital asset is appropriate and accurate, you, or your assigned manager user, can publish your collection. DRI will then mint a digital object identifier (DOI) for each digital object and your collection will be made available to end-users in accordance with the access permissions set (e.g. publically accessible or restricted). All metadata is publicly available and is licensed under CC-BY.
+Once you have reviewed your collection and are satisfied that you have set appropriate access restrictions, copyright statements and licenses, and the metadata for each digital asset is appropriate and accurate, you, or your assigned manager user, can publish your collection. DRI will then mint a digital object identifier (DOI) for each digital object and your collection will be made available to end-users in accordance with the access permissions set (e.g. publically accessible or restricted). All metadata is publicly available and is licensed under CC0 unless otherwise indicated.
 
 **Resources:**
 
